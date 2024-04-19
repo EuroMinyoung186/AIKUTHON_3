@@ -37,7 +37,7 @@
 ## Solution
 
 ### Intuition
-![슬라이드](./solution_ppt_image/슬라이드3.jpg)
+![슬라이드](./solution_ppt_image/슬라이드3.JPG)
 
 ### Preprocessing
 ![슬라이드](./solution_ppt_image/슬라이드5.jpg)
