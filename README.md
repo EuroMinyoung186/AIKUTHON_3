@@ -56,3 +56,4 @@
 
 ## Result
 1등 우승~~
+<img width="922" alt="image" src="https://github.com/EuroMinyoung186/AIKUTHON_3/assets/62500006/70f7f16f-73cf-4256-b66e-a9c63378b0a1">
