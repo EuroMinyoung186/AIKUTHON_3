@@ -40,16 +40,16 @@
 ![슬라이드](./solution_ppt_image/슬라이드3.JPG)
 
 ### Preprocessing
-![슬라이드](./solution_ppt_image/슬라이드5.jpg)
-![슬라이드](./solution_ppt_image/슬라이드6.jpg)
-![슬라이드](./solution_ppt_image/슬라이드7.jpg)
+![슬라이드](./solution_ppt_image/슬라이드5.JPG)
+![슬라이드](./solution_ppt_image/슬라이드6.JPG)
+![슬라이드](./solution_ppt_image/슬라이드7.JPG)
 
 ### Model
-![슬라이드](./solution_ppt_image/슬라이드9.jpg)
-![슬라이드](./solution_ppt_image/슬라이드10.jpg)
+![슬라이드](./solution_ppt_image/슬라이드9.JPG)
+![슬라이드](./solution_ppt_image/슬라이드10.JPG)
 
 ### Hyperparameter
-![슬라이드](./solution_ppt_image/슬라이드12.jpg)
+![슬라이드](./solution_ppt_image/슬라이드12.JPG)
 
 ### Score(Result)
-![슬라이드](./solution_ppt_image/슬라이드14.jpg)
+![슬라이드](./solution_ppt_image/슬라이드14.JPG)
