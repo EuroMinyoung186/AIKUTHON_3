@@ -33,3 +33,23 @@
     - 1등: 8만원
     - 2등: 4만원
     - 3등: 2만원
+ 
+## Solution
+
+### Intuition
+![슬라이드](./solution_ppt_image/슬라이드3.jpeg)
+
+### Preprocessing
+![슬라이드](./solution_ppt_image/슬라이드5.jpeg)
+![슬라이드](./solution_ppt_image/슬라이드6.jpeg)
+![슬라이드](./solution_ppt_image/슬라이드7.jpeg)
+
+### Model
+![슬라이드](./solution_ppt_image/슬라이드9.jpeg)
+![슬라이드](./solution_ppt_image/슬라이드10.jpeg)
+
+### Hyperparameter
+![슬라이드](./solution_ppt_image/슬라이드12.jpeg)
+
+### Score(Result)
+![슬라이드](./solution_ppt_image/슬라이드14.jpeg)
