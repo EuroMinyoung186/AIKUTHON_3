@@ -53,3 +53,6 @@
 
 ### Score(Result)
 ![슬라이드](./solution_ppt_image/슬라이드14.JPG)
+
+## Result
+1등 우승~~
