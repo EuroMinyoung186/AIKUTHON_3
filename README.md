@@ -37,19 +37,19 @@
 ## Solution
 
 ### Intuition
-![슬라이드](./solution_ppt_image/슬라이드3.jpeg)
+![슬라이드](./solution_ppt_image/슬라이드3.jpg)
 
 ### Preprocessing
-![슬라이드](./solution_ppt_image/슬라이드5.jpeg)
-![슬라이드](./solution_ppt_image/슬라이드6.jpeg)
-![슬라이드](./solution_ppt_image/슬라이드7.jpeg)
+![슬라이드](./solution_ppt_image/슬라이드5.jpg)
+![슬라이드](./solution_ppt_image/슬라이드6.jpg)
+![슬라이드](./solution_ppt_image/슬라이드7.jpg)
 
 ### Model
-![슬라이드](./solution_ppt_image/슬라이드9.jpeg)
-![슬라이드](./solution_ppt_image/슬라이드10.jpeg)
+![슬라이드](./solution_ppt_image/슬라이드9.jpg)
+![슬라이드](./solution_ppt_image/슬라이드10.jpg)
 
 ### Hyperparameter
-![슬라이드](./solution_ppt_image/슬라이드12.jpeg)
+![슬라이드](./solution_ppt_image/슬라이드12.jpg)
 
 ### Score(Result)
-![슬라이드](./solution_ppt_image/슬라이드14.jpeg)
+![슬라이드](./solution_ppt_image/슬라이드14.jpg)
